@@ -3,7 +3,7 @@
 A modern, interactive desktop application for image enhancement and processing. Developed as part of my **Computer Engineering** studies at Menofia National University (MNU).
 
 ## 🚀 Overview
-This application serves as a complete **Image Processing Pipeline**. Instead of applying filters in isolation, this tool allows users to apply filters sequentially, where each filter works on the output of the previous step. This mimics real-world data pipelines used in DevOps and Computer Vision.
+This application serves as a complete **Image Processing Pipeline**. Instead of applying filters in isolation, this tool allows users to apply filters sequentially, where each filter works on the output of the previous step. This mimics real-world data pipelines used in  Computer Vision.
 <img width="1917" height="1030" alt="Screenshot 2026-07-03 200628" src="https://github.com/user-attachments/assets/5eb96e9a-0bc6-4843-9744-c99637a12da3" />
 
 
